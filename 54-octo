@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "GENERAL SYSTEM INFORMATION"
+/usr/bin/screenfetch -A Octopus -c 134,7
+echo
+echo "SYSTEM DISK USAGE"
+export TERM=xterm; inxi -D
+echo
+echo "CURRENT WEATHER AT THE LOCATION"
+ansiweather -l delft
