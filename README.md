@@ -23,6 +23,7 @@ run-parts /etc/update-motd.d
 ```
 
 Now every time you open a terminal, you are greeted with a 'Vo:
+```
                       @@@@@                       
                  @&&&&&&&&&&&&&@                  
                @&&&&&&&&&&&&&&&&&@                
@@ -45,3 +46,4 @@ Now every time you open a terminal, you are greeted with a 'Vo:
        @&@       &@           &&       @&@       
        &@        &            @&        @&       
       @(        @              @@         &   
+```
